@@ -12,7 +12,7 @@ I'm Shreyas from India, an aerospace engineer exploring new machine learning alg
 
 🛠️ Proficient in **Computer Aided Design (CAD)**, **Computational Fluid Dynamics (CFD)** simulations, and **Finite Element Analysis (FEA)**.
 
-🌱 Currently learning **data science** and **machine learning** techniques to build impactful projects in aviation and space.
+🌱 Currently learning **data science** and **machine learning** techniques to build impactful projects.
 
 ---
 
