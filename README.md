@@ -2,13 +2,11 @@
 
 ## **Shreyas Prasad**
 
-I'm **Shreyas** from India, a Quality Assurance Engineer at Altair/Siemens Digital Industries Software, ensuring the reliability and performance of engineering simulation software like Hypermesh. I specialize in testing, automation, and workflow optimization. I'm also exploring new machine learning algorithms and data science concepts to strengthen my ability to solve diverse projects effectively.
+I'm **Shreyas** from India, a SW QA Engineer - Associate at Siemens Digital Industries Software, ensuring the reliability and performance of engineering simulation software like Hypermesh. I specialize in testing, automation, and workflow optimization. I'm also exploring new machine learning algorithms and data science concepts to strengthen my ability to solve diverse projects effectively.
 
-💻 Skilled in Python for data processing, automation, and scripting. Currently learning Selenium, Agile methodologies and CI/CD pipelines for quality assurance and testing in engineering simulations.
+💻 Skilled in Python for data processing, automation, and scripting. 
 
 🛠️ Proficient in Computer-Aided Design (CAD), Computational Fluid Dynamics (CFD) simulations, and Finite Element Analysis (FEA), with experience in modeling, meshing, and analyzing complex engineering systems for structural integrity, fluid flow, and thermal performance.
-
-🌱 Currently learning data science and machine learning techniques to build impactful projects, focusing on data-driven decision-making, predictive modeling, and automation to enhance engineering and quality assurance processes.
 
 ---
 
